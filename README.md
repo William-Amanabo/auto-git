@@ -2,7 +2,7 @@
 ### Getting Started
 #### 1. Installation
 ```
-npm install --global @William-Amanabo/auto-git
+npm install --global @william-amanabo/auto-git
 ```
 #### 2. Create a Personal Access Token on Github
 

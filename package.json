@@ -1,5 +1,5 @@
 {
-  "name": "@William-Amanabo/auto-git",
+  "name": "@william-amanabo/auto-git",
   "version": "1.0.7",
   "description": "Simple CLI app to automate GitHub repo initialization",
   "main": "index.js",
