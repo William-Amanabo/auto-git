@@ -16,8 +16,8 @@ app.command('init')
 				figlet.textSync('Repo Create', { horizontalLayout: 'full' })
 			)
 		);
-        console.log("Welcome to the GitHub repo creator tool.\nThis tool is built for a tutorial at "
-					+ chalk.yellow("https://lo-victoria.com")+ ". Do check out her blog! ^^");
+        console.log("Welcome to the GitHub repo creator tool.\n"
+					+ chalk.cyan("Made by William Amanabo"));
 
 		const question = [
 			{

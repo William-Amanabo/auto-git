@@ -1,5 +1,5 @@
 {
-  "name": "@william-amanabo/auto-git",
+  "name": "@William-Amanabo/auto-git",
   "version": "1.0.7",
   "description": "Simple CLI app to automate GitHub repo initialization",
   "main": "index.js",
@@ -14,7 +14,7 @@
   "author": "William Amanabo",
   "repository": {
     "type": "git",
-    "url": "https://github.com/william-amanao/auto-git.git"
+    "url": "https://github.com/william-amanabo/auto-git.git"
   },
   "license": "ISC",
   "dependencies": {
